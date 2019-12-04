@@ -2,4 +2,4 @@
 
 ## view my Behance
 
-[My Portfolio] (https://www.behance.net/isabelladauser)
+[My Portfolio](https://www.behance.net/isabelladauser)
