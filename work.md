@@ -7,6 +7,8 @@
 
 This project is about.
 
+[!Sample Image](/image/sashi-is-here.jpg)
+
 ## Project 2
 
 This project is about.
