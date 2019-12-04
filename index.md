@@ -1,4 +1,4 @@
-#Welcome
+# Welcome
 
--[Home] [index.md]
--[Project](projects.md)
+- [Home] [index.md]
+- [Project](projects.md)
