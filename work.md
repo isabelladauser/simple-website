@@ -1,6 +1,6 @@
 # Work
 
-- [Home] [index.md]
+- [Home][index.md]
 - [Work](work.md)
 
 ## Project 1
